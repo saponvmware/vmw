@@ -1,7 +1,7 @@
-SAP on VMware:
-  name: "SAP on VMware"
-  uri: "http://saponvmware.com"
-  email: "mail@saponvmware.com"
+vmw.fyi:
+  name: "VMware - for you information"
+  uri: "http://vmw.fyi"
+  email: "mail@vmw.fyi"
   bio: "..."
   avatar: "/assets/images/bio-photo.jpg"
   twitter: "tbd"
