@@ -3,7 +3,7 @@ title: Why this blog?
 excerpt: "reasons about sap on vmware blog"
 header:
   teaser: ""
-category: [Blog]
+category: [Categories]
 tags: [SAP, VMware, HANA, vSphere, ESXi]
 ---
 
