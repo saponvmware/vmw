@@ -218,7 +218,7 @@ whitelist:
 # tag: archive-taxonomy
 # permalinks:
 # category: /categories/:name/
-# tag: /tags/:name/
+# .comtag: /tags/:name/
 
 # HTML Compression
 # - http://jch.penibelst.de/
