@@ -203,10 +203,10 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 categories:
-  type: liquid
+  type: Blog
   path: /categories/
 tags:
-  type: liquid
+  type: Blog
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
