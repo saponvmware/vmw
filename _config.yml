@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "VMware - for your information"
 title_separator          : "-"
-name                     : "Christian Klose & Lars Fiechtner"
+name                     : "Lars Fiechtner & Christian Klose"
 description              : "VMware - for your information"
 url                      : "http://www.vmw.fyi"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -85,10 +85,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Christian Klose"
+  name             :
   avatar           : "bio-photo.png"
-  bio              : "Technial Account Manager"
-  location         : "Landau, Germany"
+  bio              :
+  location         :
   email            :
   uri              :
   bitbucket        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -202,12 +202,11 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+
+# category_archive:
+#  type: liquid
+#  path: /categories/
+
 # categories:
 # type: jekyll-archives
 # path: /categories/
