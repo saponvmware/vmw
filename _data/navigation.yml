@@ -3,20 +3,11 @@ main:
   - title: "Posts"
     url: /year-archive/
 
-  - title: "GA"
-    url: /tags/#GA
-
-  - title: "WhitePaper"
-    url: /tags/#Info
+  - title: "Category"
+    url: /category/
 
   - title: "Tags"
     url: /tags/
-
-  - title: "Tag Archive"
-    url: /tag-archive/
-
-  - title: "Category Archive"
-    url: /category-archive/
 
   - title: "About"
     url: /about/
